@@ -193,7 +193,7 @@ const Home = ({ addToCart,isLoggedIn,isSignedup }) => {
                     className="btn btn-primary m-3"
                     type="button"
                     onClick={() => handleAddToCart(product)}
-                  >
+                  > 
                     Add to Cart
                   </button>
                 </div>
